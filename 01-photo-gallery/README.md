@@ -1,6 +1,6 @@
-# Vite Template (Vanilla JS - CSS)
+# Photo Gallery
 
-This is a Vite template for vanilla JS and CSS.
+This is a photo gallery project built with vanilla JS and CSS using Vite.
 
 ## Features
 
