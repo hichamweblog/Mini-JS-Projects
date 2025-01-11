@@ -1,0 +1,8 @@
+[build]
+  functions = "functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+[build.environment]
+  UNSPLASH_ACCESS_KEY = "your_unsplash_access_key"
