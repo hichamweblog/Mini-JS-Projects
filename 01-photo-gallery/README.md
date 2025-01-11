@@ -2,23 +2,32 @@
 
 This is a photo gallery project built with vanilla JS and CSS using Vite.
 
+## Description
+
+This project uses the Unsplash API to fetch random images and display them in a grid layout.
+I used Netlify functions to hide the API key and fetch the images from the API.
+
+
+
+## Live Demo
+
+[Photo Gallery](https://dz-photo-gallery.netlify.app/)
+
+
 ## Features
 
 - Vanilla JS
-- CSS
+- Html & CSS
 - Vite
-- Eslint
-- Prettier
+- Unsplash API
+- Netlify functions
 
 ## Getting Started
 
 - Clone this repository
 - Install dependencies by running `pnpm install`
 - Start the development server by running `pnpm run dev`
-- Lint your code by running `pnpm run lint`
-- Format your code by running `pnpm run format`
-- Build your project by running `pnpm run build`
-- Preview your build by running `pnpm run preview`
+
 
 ## License
 
